@@ -1,0 +1,18 @@
+Name,Email,Contact,Marks,Category,predicted_low_rank,predicted_high_rank,eligible_colleges
+sarthak,sarthak@mail.com,9309793875,650.0,GENERAL,501,2,
+sarthak,sarthak@mail.com,9309793875,567.0,GENERAL,20,35,
+sarthak,sarthak@mail.com,9309793875,567.0,GENERAL,20001,35000,
+sarthak,sarthak@mail.com,9309793875,650.0,GENERAL,501,2000,"NRI Medical College, Guntur, Narayana Medical College, Nellore, Great Eastern Medical School,Srikakulam, PES IMS, Kuppam, Alluri Sitaram Raju, Eluru, Dr PSI Medical College, Chinoutpalli, Katuri Medical College, Guntur, GSL Medical College, Rajahmundry, Apollo IMS&R, Chittoor, VMC, Kurnool, Konaseema IMS, Amalapuram, Maharajah IMS, Vizianagaram, NRI Inst of Medical Sciences, Vizag, GVP Medical College, Vizag, Santhiram Medical College, Nandyal, Sri Balaji Medical College, Chittoor, Narayan Medical College, Sasaram, Lord Buddha Koshi Med, Saharsa, Himalaya Medical Collegeege& Hospital, Patna, RDJM Medical Coll, Muzaffarpur, Netaji Subhas Medical College, Bihta, Adani Institute, Bhuj, GCS Medical College, Ahmedabad, Pramukhswami Medical College, Karmsad, CU Shah, Surendra Nagar, Shantabaa Medical Coll, Amreli, SAL Inst of Medical Sciences, Ahmedabad, Banas Medical Collegeege& RI, Palanpur, Dr KiranCPatel MedicalCol,Bharuch, Dr MK Shah Medical College, Ahmedabad, Zydus Medical Collegeege& Hospital, Dahod, Ananya Collegeof Medical& Research"
+sarthak,sarthak@mail.com,9309793875,650.0,OBC,,,
+sarthak,sarthak@mail.com,9309793875,555.0,OBC,5001,10000,
+sarthak,sarthak@mail.com,9309793875,570.0,OBC,2001,5000,
+sarthak,sarthak@mail.com,9309793875,666.0,OBC,,,
+sarthak,sarthak@mail.com,9309793875,650.0,OBC,,,
+sarthak,sarthak@mail.com,9309793875,650.0,EWS,1,100,
+sarthak,sarthak@mail.com,9309793875,650.0,OBC-NCL,,,
+sarthak,sarthak@mail.com,9309793875,650.0,SC,,,
+sarthak,sarthak@mail.com,9309793875,650.0,GENERAL,501,2000,"NRI Medical College, Guntur, Narayana Medical College, Nellore, Great Eastern Medical School,Srikakulam, PES IMS, Kuppam, Alluri Sitaram Raju, Eluru, Dr PSI Medical College, Chinoutpalli, Katuri Medical College, Guntur, GSL Medical College, Rajahmundry, Apollo IMS&R, Chittoor, VMC, Kurnool, Konaseema IMS, Amalapuram, Maharajah IMS, Vizianagaram, NRI Inst of Medical Sciences, Vizag, GVP Medical College, Vizag, Santhiram Medical College, Nandyal, Sri Balaji Medical College, Chittoor, Narayan Medical College, Sasaram, Lord Buddha Koshi Med, Saharsa, Himalaya Medical Collegeege& Hospital, Patna, RDJM Medical Coll, Muzaffarpur, Netaji Subhas Medical College, Bihta, Adani Institute, Bhuj, GCS Medical College, Ahmedabad, Pramukhswami Medical College, Karmsad, CU Shah, Surendra Nagar, Shantabaa Medical Coll, Amreli, SAL Inst of Medical Sciences, Ahmedabad, Banas Medical Collegeege& RI, Palanpur, Dr KiranCPatel MedicalCol,Bharuch, Dr MK Shah Medical College, Ahmedabad, Zydus Medical Collegeege& Hospital, Dahod, Ananya Collegeof Medical& Research"
+sarthak,sarthak@mail.com,9309793875,555.0,GENERAL,20001,35000,
+sarthak,sarthak@mail.com,9309793875,543.0,GENERAL,20001,35000,
+sarthak,sarthak@mail.com,9309793875,520.0,GENERAL,35001,60000,
+sarthak,sarthak@mail.com,9309793875,604.0,OBC,101,500,

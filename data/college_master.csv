@@ -1,0 +1,416 @@
+ID,Institute Name,State,Category,Rank Range,Course,Quota,Fee,Beds,Round,Type
+1,"NRI Medical College, Guntur",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+2,"Narayana Medical College, Nellore",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+3,"Great Eastern Medical School,Srikakulam",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+4,"PES IMS, Kuppam",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,-,-,1,State
+5,"Alluri Sitaram Raju, Eluru",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+6,"Dr PSI Medical College, Chinoutpalli",Andhra Pradesh,General,501 - 1000,MBBS,AP Govt-AP UNR,-,-,1,State
+7,"Alluri Sitaram Raju, Eluru",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+8,"Katuri Medical College, Guntur",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+9,"GSL Medical College, Rajahmundry",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+10,"Narayana Medical College, Nellore",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+11,"Dr PSI Medical College, Chinoutpalli",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+12,"Apollo IMS&R, Chittoor",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+13,"VMC, Kurnool",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,7,State
+14,"PES IMS, Kuppam",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,-,-,1,State
+15,"Konaseema IMS, Amalapuram",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,-,-,1,State
+16,"Maharajah IMS, Vizianagaram",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+17,"NRI Inst of Medical Sciences, Vizag",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+18,"GVP Medical College, Vizag",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+19,"Konaseema IMS, Amalapuram",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+20,"Great Eastern Medical School,Srikakulam",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+21,"Santhiram Medical College, Nandyal",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+22,"Sri Balaji Medical College, Chittoor",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+23,"Konaseema IMS, Amalapuram",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-AP UNR,-,-,2,State
+24,"GSL Medical College, Rajahmundry",Andhra Pradesh,General,1001 - 5000,MBBS,AP Govt-LOC(AU),"₹16,500",-,2,State
+25,"Alluri Sitaram Raju, Eluru",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+26,"NRI Inst of Medical Sciences, Vizag",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+27,"Dr PSI Medical College, Chinoutpalli",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,-,-,1,State
+28,"Katuri Medical College, Guntur",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,-,-,1,State
+29,"GSL Medical College, Rajahmundry",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+30,"Apollo IMS&R, Chittoor",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+31,"Great Eastern Medical School,Srikakulam",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+32,"Narayana Medical College, Nellore",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+33,"Konaseema IMS, Amalapuram",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,1,State
+34,"VMC, Kurnool",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+35,"PES IMS, Kuppam",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,-,-,1,State
+36,"Maharajah IMS, Vizianagaram",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+37,"Santhiram Medical College, Nandyal",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-AP UNR,"₹16,500",-,1,State
+38,"GVP Medical College, Vizag",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,2,State
+39,"Great Eastern Medical School,Srikakulam",Andhra Pradesh,SC,"5001- 10,000",MBBS,AP Govt-LOC(AU),"₹16,500",-,3,State
+40,"Narayan Medical College, Sasaram",Bihar,General,101-500,MBBS,Bihar-Priv-GEN,"₹11,15,000",-,5,State
+41,"Himalaya Medical Collegeege& Hospital, Patna",Bihar,General,101-500,MBBS,Bihar-Priv-GEN,-,-,5,State
+42,"Lord Buddha Koshi Med, Saharsa",Bihar,General,101-500,MBBS,Bihar-Priv-GEN,"₹11,75,000",-,5,State
+43,"Shree Narayan MedicalInst,Saharsa",Bihar,NRI,101-500,MBBS,Bihar-Priv-NRI,"₹20,00,000",-,5,State
+44,"Madhubani Medical College, Madhubani",Bihar,NRI,101-500,MBBS,Bihar-Priv-NRI,"₹20,00,000",-,5,State
+45,"Netaji Subhas Medical College, Bihta",Bihar,NRI,101-500,MBBS,Bihar-Priv-NRI,"₹28,00,000",-,5,State
+46,"Narayan Medical College, Sasaram",Bihar,General,501-1000,MBBS,Bihar-Priv-GEN,"₹11,15,000",-,4,State
+47,"Lord Buddha Koshi Med, Saharsa",Bihar,General,501-1000,MBBS,Bihar-Priv-GEN,"₹11,75,000",-,4,State
+48,"Himalaya Medical Collegeege& Hospital, Patna",Bihar,General,1001-5000,MBBS,Bihar-Priv-GEN,-,-,1,State
+49,"Lord Buddha Koshi Med, Saharsa",Bihar,General,1001-5000,MBBS,Bihar-Priv-GEN,"₹11,75,000",-,1,State
+50,"Narayan Medical College, Sasaram",Bihar,General,1001-5000,MBBS,Bihar-Priv-GEN,"₹11,15,000",-,1,State
+51,"RDJM Medical Coll, Muzaffarpur",Bihar,General,1001-5000,MBBS,Bihar-Priv-GEN,"₹13,35,000",-,3,State
+52,"Madhubani Medical College, Madhubani",Bihar,NRI,1001-5000,MBBS,Bihar-Priv-NRI,"₹20,00,000",-,3,State
+53,"Netaji Subhas Medical College, Bihta",Bihar,General,1001-5000,MBBS,Bihar-Priv-GEN,"₹16,00,000",-,3,State
+54,"Narayan Medical College, Sasaram",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹11,15,000",-,2,State
+55,"Lord Buddha Koshi Med, Saharsa",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹11,75,000",-,2,State
+56,"Netaji Subhas Medical College, Bihta",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹16,00,000",-,2,State
+57,"RDJM Medical Coll, Muzaffarpur",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹13,35,000",-,2,State
+58,"Shree Narayan MedicalInst,Saharsa",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹13,00,000",-,2,State
+59,"Madhubani Medical College, Madhubani",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,"₹14,00,000",-,2,State
+60,"Himalaya Medical Collegeege& Hospital, Patna",Bihar,General,"5001-10,000",MBBS,Bihar-Priv-GEN,-,-,2,State
+61,"SSIMS, Bhilai",Chhattisgarh,UR,101-500,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,99,187",-,1,State
+62,"Shri Balaji Inst of MS, Raipur",Chhattisgarh,UR,101-500,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,50,187",-,1,State
+63,"Raipur IMS, Raipur",Chhattisgarh,UR,101-500,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,45,187",-,1,State
+64,"SRIMSR, Naya Raipur",Chhattisgarh,UR,101-500,MBBS,CHTSGRH-Pvt-MgmtQuota,-,-,1,State
+65,"Shri Balaji Inst of MS, Raipur",Chhattisgarh,UR,501-1000,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,50,187",-,1,State
+66,"SSIMS, Bhilai",Chhattisgarh,UR,501-1000,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,99,187",-,1,State
+67,"Raipur IMS, Raipur",Chhattisgarh,UR,501-1000,MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,45,187",-,1,State
+68,"SRIMSR, Naya Raipur",Chhattisgarh,UR,501-1000,MBBS,CHTSGRH-Pvt-MgmtQuota,-,-,1,State
+69,"AIMMMCR, Bhilai",Chhattisgarh,UR,501-1000,MBBS,CHTSGRH-Pvt-MgmtQuota,-,-,1,State
+70,"AIMMMCR, Bhilai",Chhattisgarh,UR,1001-5000,MBBS,CHTSGRH-Pvt-MgmtQuota,-,-,1,State
+71,"SRIMSR, Naya Raipur",Chhattisgarh,UR,1001-5000,MBBS,CHTSGRH-Pvt-MgmtQuota,-,-,1,State
+72,"SSIMS, Bhilai",Chhattisgarh,UR,1001-5000,MBBS,CHTSGRH-Pvt-GovtQuota,"₹7,99,187",-,1,State
+73,"Shri Balaji Inst of MS, Raipur",Chhattisgarh,UR,1001-5000,MBBS,CHTSGRH-Pvt-GovtQuota,"₹7,50,187",-,1,State
+74,"Raipur IMS, Raipur",Chhattisgarh,UR,1001-5000,MBBS,CHTSGRH-Pvt-GovtQuota,"₹7,45,187",-,1,State
+75,"Shri Balaji Inst of MS, Raipur",Chhattisgarh,SC,"5001-10,000",MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,50,187",-,1,State
+76,"SSIMS, Bhilai",Chhattisgarh,SC,"5001-10,000",MBBS,CHTSGRH-Pvt-MgmtQuota,"₹7,99,187",-,1,State
+77,"Raipur IMS, Raipur",Chhattisgarh,UR,"5001-10,000",MBBS,CHTSGRH-NRIQuota,"₹28,00,000",-,1,State
+78,"SRIMSR, Naya Raipur",Chhattisgarh,UR,"5001-10,000",MBBS,CHTSGRH-NRIQuota,-,-,1,State
+79,"Shri Balaji Inst of MS, Raipur",Chhattisgarh,ST,"5001-10,000",MBBS,CHTSGRH-Pvt-GovtQuota,"₹7,50,187",-,1,State
+80,"Adani Institute, Bhuj",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+81,"GCS Medical College, Ahmedabad",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+82,"Pramukhswami Medical College, Karmsad",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹10,00,000",-,1,State
+83,"CU Shah, Surendra Nagar",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+84,"Shantabaa Medical Coll, Amreli",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹8,58,000",-,1,State
+85,"SAL Inst of Medical Sciences, Ahmedabad",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹9,52,000",-,1,State
+86,"Banas Medical Collegeege& RI, Palanpur",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹7,98,000",-,1,State
+87,"Dr KiranCPatel MedicalCol,Bharuch",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹8,50,000",-,1,State
+88,"Dr MK Shah Medical College, Ahmedabad",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹9,66,000",-,1,State
+89,"Pramukhswami Medical College, Karmsad",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹10,00,000",-,1,State
+90,"Zydus Medical Collegeege& Hospital, Dahod",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹9,37,000",-,1,State
+91,"Banas Medical Collegeege& RI, Palanpur",Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹7,98,000",-,1,State
+92,Ananya Collegeof Medical& Research,Gujarat,General,1000 - 5000,MBBS,Gujarat Govt Seats,"₹9,05,000",-,1,State
+93,"Zydus Medical Collegeege& Hospital, Dahod",Gujarat,General,5000 - 10000,MBBS,Gujarat Govt Seats,"₹9,37,000",-,1,State
+94,"GCS Medical College, Ahmedabad",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+95,"CU Shah, Surendra Nagar",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+96,"Dr MK Shah Medical College, Ahmedabad",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹9,66,000",-,1,State
+97,"Adani Institute, Bhuj",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹8,70,000",-,1,State
+98,"Dr MK Shah Medical College, Ahmedabad",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹9,66,000",-,1,State
+99,"Banas Medical Collegeege& RI, Palanpur",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹7,98,000",-,1,State
+100,"SAL Inst of Medical Sciences, Ahmedabad",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹9,52,000",-,1,State
+101,"Pramukhswami Medical College, Karmsad",Gujarat,SC,5000 - 10000,MBBS,Gujarat Govt Seats,"₹10,00,000",-,1,State
+102,"Kasturba Medical College, Manipal",Karnataka,General,101 - 500,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+103,"Kasturba Medical College, Manipal",Karnataka,General,101 - 500,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+104,"Kasturba Medical College, Manipal",Karnataka,General,101 - 500,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+105,"Kasturba Medical College, Manipal",Karnataka,Open,501 - 1000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+106,"Kasturba Medical College, Manipal",Karnataka,Open,501 - 1000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+107,"Kasturba Medical College, Manipal",Karnataka,Open,501 - 1000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+108,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+109,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+110,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+111,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+112,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+113,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+114,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+115,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+116,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+117,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+118,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+119,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+120,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+121,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+122,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+123,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+124,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+125,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+126,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+127,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+128,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+129,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+130,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+131,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+132,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+133,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+134,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+135,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+136,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+137,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+138,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+139,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+140,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+141,"Kasturba Medical College, Manipal",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+142,"Kasturba Medical College, Mangalore",Karnataka,Open,1001 - 5000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+143,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+144,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+145,"Kasturba Medical College, Mangalore",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+146,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+147,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+148,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+149,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+150,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+151,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+152,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+153,"Kasturba Medical College, Mangalore",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+154,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+155,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+156,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+157,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+158,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+159,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+160,"Kasturba Medical College, Mangalore",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+161,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+162,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+163,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+164,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+165,"Kasturba Medical College, Manipal",Karnataka,Open,5001 - 10000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+166,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+167,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+168,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+169,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+170,"Kasturba Medical College, Mangalore",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+171,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+172,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+173,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+174,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+175,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+176,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+177,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+178,"JSS Medical College, Mysore",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,-,-,1,Deemed
+179,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+180,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+181,"Hamdard Institute, Delhi",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹16,00,000",-,1,Deemed
+182,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,1,Deemed
+183,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+184,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+185,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+186,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+187,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+188,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,1,Deemed
+189,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+190,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+191,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,1,Deemed
+192,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+193,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+194,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+195,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+196,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+197,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+198,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+199,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+200,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,1,Deemed
+201,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+202,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+203,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+204,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+205,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+206,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+207,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+208,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+209,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+210,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+211,"Hamdard Institute, Delhi",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹16,00,000",-,2,Deemed
+212,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,2,Deemed
+213,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+214,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+215,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+216,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+217,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+218,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+219,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+220,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+221,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,2,Deemed
+222,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+223,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,2,Deemed
+224,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+225,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+226,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+227,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+228,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+229,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+230,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+231,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+232,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,2,Deemed
+233,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+234,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+235,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+236,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+237,"Hamdard Institute, Delhi",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹16,00,000",-,3,Deemed
+238,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+239,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+240,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+241,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+242,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+243,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+244,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+245,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,3,Deemed
+246,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+247,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+248,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+249,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+250,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+251,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+252,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+253,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+254,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,00,000",-,3,Deemed
+255,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+256,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+257,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+258,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+259,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+260,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+261,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+262,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+263,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+264,"Kasturba Medical College, Manipal",Karnataka,Open,10001 - 20000,MBBS,DEEMED PS,"₹10,99,000",-,3,Deemed
+265,"Kasturba Medical College, Manipal",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹10,99,000",-,4,Deemed
+266,Amrita School of Med. Faridabad,Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+267,"Symbiosis Medical CollegeegeWomen, Pune",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹10,00,000",-,4,Deemed
+268,"SRMC & RI, Chennai",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+269,"DY Patil, Navi Mumbai",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+270,"Kasturba Medical College, Mangalore",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹10,99,000",-,4,Deemed
+271,"Hamdard Institute, Delhi",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹16,00,000",-,4,Deemed
+272,"Manipal Tata Medical College,Jamshedpur",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹12,10,000",-,4,Deemed
+273,"MMIMS, Mullana, Ambala",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+274,"SRMC & RI, Chennai",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+275,"Manipal Tata Medical College,Jamshedpur",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹12,10,000",-,4,Deemed
+276,"GITAM IMS, Vizag",Karnataka,Open,20001 - 35000,MBBS,DEEMED PS,"₹25,37,000",-,4,Deemed
+277,"Symbiosis Medical CollegeegeWomen, Pune",Maharashtra,Open,35001 - 50000,MBBS,DEEMED PS,"₹10,00,000",-,4,Deemed
+278,"Kasturba Medical College, Manipal",Karnataka,Open,35001 - 50000,MBBS,DEEMED PS,"₹10,99,000",-,4,Deemed
+279,"Hamdard Institute, Delhi",Delhi,Open,35001 - 50000,MBBS,DEEMED PS,"₹16,00,000",-,4,Deemed
+280,"JSS Medical College, Mysore",Karnataka,Open,35001 - 50000,MBBS,DEEMED PS,-,-,4,Deemed
+281,"Manipal Tata Medical College,Jamshedpur",Jharkhand,Open,35001 - 50000,MBBS,DEEMED PS,"₹12,10,000",-,4,Deemed
+282,"Kalinga IMS, Bhubaneswar",Odisha,Open,35001 - 50000,MBBS,DEEMED PS,-,-,4,Deemed
+283,"Kasturba Medical College, Mangalore",Karnataka,Open,35001 - 50000,MBBS,DEEMED PS,"₹10,99,000",-,4,Deemed
+284,"Meenakshi Medical College, Enathur",Tamil Nadu,Open,35001 - 50000,MBBS,DEEMED PS,"₹19,50,000",-,4,Deemed
+285,"IMS & SUM, Bhubaneswar",Odisha,Open,35001 - 50000,MBBS,DEEMED PS,"₹19,95,000",-,4,Deemed
+286,"MMIMS, Mullana, Ambala",Haryana,Open,35001 - 50000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+287,"GITAM IMS, Vizag",Andhra Pradesh,Open,35001 - 50000,MBBS,DEEMED PS,"₹25,37,000",-,4,Deemed
+288,"SRMC & RI, Chennai",Tamil Nadu,Open,35001 - 50000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+289,"KS Hegde, Mangalore",Karnataka,Open,35001 - 50000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+290,"Kasturba Medical College, Mangalore",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,"₹10,99,000",-,4,Deemed
+291,"Symbiosis Medical CollegeegeWomen, Pune",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹10,00,000",-,4,Deemed
+292,"Hamdard Institute, Delhi",Delhi,Open,50001 - 75000,MBBS,DEEMED PS,"₹16,00,000",-,4,Deemed
+293,"SRMC & RI, Chennai",Tamil Nadu,Open,50001 - 75000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+294,"BVDU, Pune",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹23,60,000",-,4,Deemed
+295,"IMS & SUM, Bhubaneswar",Odisha,Open,50001 - 75000,MBBS,DEEMED PS,"₹19,95,000",-,4,Deemed
+296,"MGM Medical College, Navi Mumbai",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+297,"GITAM IMS, Vizag",Andhra Pradesh,Open,50001 - 75000,MBBS,DEEMED PS,"₹25,37,000",-,4,Deemed
+298,"JSS Medical College, Mysore",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,-,-,4,Deemed
+299,"Amrita School of Med, Kochi",Kerala,Open,50001 - 75000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+300,"Manipal Tata Medical College,Jamshedpur",Jharkhand,Open,50001 - 75000,MBBS,DEEMED PS,"₹12,10,000",-,4,Deemed
+301,"JN Medical College, Belgaum",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,"₹19,20,000",-,4,Deemed
+302,"GITAM IMS, Vizag",Andhra Pradesh,Open,50001 - 75000,MBBS,DEEMED PS,"₹25,37,000",-,4,Deemed
+303,"Kalinga IMS, Bhubaneswar",Odisha,Open,50001 - 75000,MBBS,DEEMED PS,-,-,4,Deemed
+304,"IMS & SH, Campus II, Phulnakhara",Odisha,Open,50001 - 75000,MBBS,DEEMED PS,-,-,4,Deemed
+305,"SRMC & RI, Chennai",Tamil Nadu,Open,50001 - 75000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+306,"Rural Medical College, LONI",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+307,"JN Medical College, Belgaum",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,"₹19,20,000",-,4,Deemed
+308,"DY Patil, Pimpri, Pune",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹26,50,000",-,4,Deemed
+309,"KS Hegde, Mangalore",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+310,Amrita School of Med. Faridabad,Haryana,Open,50001 - 75000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+311,"Rural Medical College, LONI",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+312,"MMIMS, Mullana, Ambala",Haryana,Open,50001 - 75000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+313,"MGM Medical College, Aurangabad",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+314,"SBKS, Vadadora",Gujarat,Open,50001 - 75000,MBBS,JAIN MIN,"₹18,75,000",-,4,Deemed
+315,"Amrita School of Med, Kochi",Kerala,Open,50001 - 75000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+316,"IMS & SH, Campus II, Phulnakhara",Odisha,Open,50001 - 75000,MBBS,DEEMED PS,-,-,4,Deemed
+317,"DY Patil, Pimpri, Pune",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹26,50,000",-,4,Deemed
+318,Mahatma Gandhi Mission Vashi,Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+319,"Yenepoya Medical College, Mangalore",Karnataka,Open,50001 - 75000,MBBS,DEEMED PS,"₹22,22,223",-,4,Deemed
+320,"Datta Meghe Medical College, Nagpur",Maharashtra,Open,50001 - 75000,MBBS,DEEMED PS,"₹22,00,000",-,4,Deemed
+321,"JN Medical College, Belgaum",Karnataka,Open,75001 - 100000,MBBS,DEEMED PS,"₹19,20,000",-,4,Deemed
+322,"JN Medical Collegeege, Meghe, Wardha",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹20,75,000",-,4,Deemed
+323,"JSS Medical College, Mysore",Karnataka,Open,75001 - 100000,MBBS,DEEMED PS,-,-,4,Deemed
+324,"Manipal Tata Medical College,Jamshedpur",Jharkhand,Open,75001 - 100000,MBBS,DEEMED PS,"₹12,10,000",-,4,Deemed
+325,"Hamdard Institute, Delhi",Delhi,Open,75001 - 100000,MBBS,MUSLIM MIN,"₹16,00,000",-,4,Deemed
+326,"KS Hegde, Mangalore",Karnataka,Open,75001 - 100000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+327,"Amrita School of Med, Kochi",Kerala,Open,75001 - 100000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+328,"SDU Medical College, Kolar",Karnataka,Open,75001 - 100000,MBBS,DEEMED PS,"₹17,60,000",-,4,Deemed
+329,"MGM Medical College, Navi Mumbai",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+330,"SRMC & RI, Chennai",Tamil Nadu,Open,75001 - 100000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+331,"IMS & SH, Campus II, Phulnakhara",Odisha,Open,75001 - 100000,MBBS,DEEMED PS,-,-,4,Deemed
+332,"Rural Medical College, LONI",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+333,"MMIMS, Mullana, Ambala",Haryana,Open,75001 - 100000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+334,"IMS & SUM, Bhubaneswar",Odisha,Open,75001 - 100000,MBBS,DEEMED PS,"₹19,95,000",-,4,Deemed
+335,"Kalinga IMS, Bhubaneswar",Odisha,Open,75001 - 100000,MBBS,DEEMED PS,-,-,4,Deemed
+336,"SBKS, Vadadora",Gujarat,Open,75001 - 100000,MBBS,DEEMED PS,"₹18,75,000",-,4,Deemed
+337,"Chettinad Hospital&RI,Kanchipuram",Tamil Nadu,Open,75001 - 100000,MBBS,DEEMED PS,"₹24,50,000",-,4,Deemed
+338,"Saveetha, Kanchipuram",Tamil Nadu,Open,75001 - 100000,MBBS,DEEMED PS,"₹24,75,000",-,4,Deemed
+339,"BVDU, Pune",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹23,60,000",-,4,Deemed
+340,"MGM Medical College, Aurangabad",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+341,Amrita School of Med. Faridabad,Haryana,Open,75001 - 100000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+342,Mahatma Gandhi Mission Vashi,Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+343,"BVDU, Sangli",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹22,10,000",-,4,Deemed
+344,"Saveetha, Kanchipuram",Tamil Nadu,Open,75001 - 100000,MBBS,DEEMED PS,"₹24,75,000",-,4,Deemed
+345,"DY Patil, Kolhapur",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+346,"SDU Medical College, Kolar",Karnataka,Open,75001 - 100000,MBBS,DEEMED PS,"₹17,60,000",-,4,Deemed
+347,"MGM Medical College, Aurangabad",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+348,"SRMC & RI, Chennai",Tamil Nadu,Open,75001 - 100000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+349,"BVDU, Pune",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,"₹23,60,000",-,4,Deemed
+350,"MGM Medical College, Nerul",Maharashtra,Open,75001 - 100000,MBBS,DEEMED PS,-,-,4,Deemed
+351,"Graphic Era IMS, Dehradun",Uttarakhand,Open,75001 - 100000,MBBS,DEEMED PS,-,-,4,Deemed
+352,"Amrita School of Med, Kochi",Kerala,Open,75001 - 100000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+353,"Rural Medical College, LONI",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+354,"JSS Medical College, Mysore",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+355,"Rajeshwari, Bangalore",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,00,000",-,4,Deemed
+356,"JN Medical College, Belgaum",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹19,20,000",-,4,Deemed
+357,"Hamdard Institute, Delhi",Delhi,Open,100001 - 150000,MBBS,MUSLIM MIN,"₹16,00,000",-,4,Deemed
+358,Mahatma Gandhi Mission Vashi,Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+359,"IMS & SH, Campus II, Phulnakhara",Odisha,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+360,"MGM Medical College, Aurangabad",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+361,"BVDU, Pune",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,60,000",-,4,Deemed
+362,"SRMC & RI, Chennai",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹30,00,000",-,4,Deemed
+363,"Kalinga IMS, Bhubaneswar",Odisha,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+364,"KS Hegde, Mangalore",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+365,"Saveetha, Kanchipuram",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹24,75,000",-,4,Deemed
+366,"Krishna IMS, Karad",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,00,000",-,4,Deemed
+367,"Jagadguru Gangadhar, Hubli",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,60,000",-,4,Deemed
+368,"Datta Meghe Medical College, Nagpur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹22,00,000",-,4,Deemed
+369,"Chettinad Hospital&RI,Kanchipuram",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹24,50,000",-,4,Deemed
+370,"Amrita School of Med, Kochi",Kerala,Open,100001 - 150000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+371,"GITAM IMS, Vizag",Andhra Pradesh,Open,100001 - 150000,MBBS,DEEMED PS,"₹25,37,000",-,4,Deemed
+372,"SDU Medical College, Kolar",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,60,000",-,4,Deemed
+373,"JR Medical Collegeege& Hospital, Avanampattu",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+374,"JN Medical Collegeege, Meghe, Wardha",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹20,75,000",-,4,Deemed
+375,"MMIMS, Mullana, Ambala",Haryana,Open,100001 - 150000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+376,"MGM Medical College, Nerul",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+377,"DY Patil, Kolhapur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+378,Mahatma Gandhi Mission Vashi,Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+379,"Krishna IMS, Karad",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,00,000",-,4,Deemed
+380,"BVDU, Pune",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,60,000",-,4,Deemed
+381,"SBKS, Vadadora",Gujarat,Open,100001 - 150000,MBBS,JAIN MIN,"₹18,75,000",-,4,Deemed
+382,Amrita School of Med. Faridabad,Haryana,Open,100001 - 150000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+383,"MGM Medical College, Aurangabad",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+384,"Shri BM Patil, Vijayapura",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+385,"DY Patil, Pimpri, Pune",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹26,50,000",-,4,Deemed
+386,"Meenakshi Medical College, Enathur",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹19,50,000",-,4,Deemed
+387,"DY Patil, Kolhapur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+388,"Amrita School of Med, Kochi",Kerala,Open,100001 - 150000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+389,"JN Medical College, Belgaum",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹19,20,000",-,4,Deemed
+390,"DY Patil, Navi Mumbai",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+391,"KS Hegde, Mangalore",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,50,000",-,4,Deemed
+392,"DY Patil, Kolhapur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+393,Mahatma Gandhi Mission Vashi,Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹21,00,000",-,4,Deemed
+394,"Shri BM Patil, Vijayapura",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+395,"IMS & SH, Campus II, Phulnakhara",Odisha,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+396,"Siddhartha Medical College, Tumkur",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,"₹17,75,000",-,4,Deemed
+397,"Graphic Era IMS, Dehradun",Uttarakhand,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+398,"Amrita School of Med, Kochi",Kerala,Open,100001 - 150000,MBBS,DEEMED PS,"₹25,00,000",-,4,Deemed
+399,"Krishna IMS, Karad",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,00,000",-,4,Deemed
+400,"Datta Meghe Medical College, Nagpur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹22,00,000",-,4,Deemed
+401,"Santosh Medical College, Ghaziabad",Uttar Pradesh,Open,100001 - 150000,MBBS,DEEMED PS,"₹24,00,000",-,4,Deemed
+402,"Malla Reddy(Women), Hyderabad",Telangana,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+403,"MMIMS, Mullana, Ambala",Haryana,Open,100001 - 150000,MBBS,DEEMED PS,"₹18,00,000",-,4,Deemed
+404,"BVDU, Sangli",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹22,10,000",-,4,Deemed
+405,"ACS Medical College, Chennai",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,00,000",-,4,Deemed
+406,"DY Patil, Kolhapur",Maharashtra,Open,100001 - 150000,MBBS,DEEMED PS,"₹23,10,000",-,4,Deemed
+407,"Shri BM Patil, Vijayapura",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,-,-,4,Deemed
+408,"Chettinad Hospital&RI,Kanchipuram",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,"₹24,50,000",-,4,Deemed
+409,"JR Medical Collegeege& Hospital, Avanampattu",Tamil Nadu,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+410,"Siddhartha Medical College, Tumkur",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+411,"Siddhartha Medical College, Tumkur",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+412,"Sri Siddhartha IMS, T. Begur",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+413,"Rajeshwari, Bangalore",Karnataka,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+414,"MMIMS, Mullana, Ambala",Haryana,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
+415,"Malla Reddy IMS, Hyderabad",Telangana,Open,100001 - 150000,MBBS,DEEMED PS,,-,4,Deemed
