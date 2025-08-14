@@ -343,15 +343,15 @@ def main():
     cat_rules, college, submissions = load_csvs()
 
     # Admin controls
-    st.sidebar.header("Admin / Debug")
-    admin_strict = st.sidebar.checkbox("Enforce strict category rules (no fallback)", value=False)
-    show_reconcile = st.sidebar.button("Generate reconciliation report")
+    #st.sidebar.header("Admin / Debug")
+    #admin_strict = st.sidebar.checkbox("Enforce strict category rules (no fallback)", value=False)
+    #show_reconcile = st.sidebar.button("Generate reconciliation report")
 
-    if show_reconcile:
-        r1, r2 = reconcile_and_save_reports(cat_rules, college)
-        st.sidebar.success("Reconciliation reports saved:")
-        st.sidebar.write(r1)
-        st.sidebar.write(r2)
+    #if show_reconcile:
+        #r1, r2 = reconcile_and_save_reports(cat_rules, college)
+        #st.sidebar.success("Reconciliation reports saved:")
+        #st.sidebar.write(r1)
+        #st.sidebar.write(r2)
 
     # Input form
     with st.form("predict_form"):
