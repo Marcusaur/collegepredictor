@@ -343,6 +343,7 @@ def main():
     cat_rules, college, submissions = load_csvs()
 
     # Admin controls
+    admin_strict = False
     #st.sidebar.header("Admin / Debug")
     #admin_strict = st.sidebar.checkbox("Enforce strict category rules (no fallback)", value=False)
     #show_reconcile = st.sidebar.button("Generate reconciliation report")
